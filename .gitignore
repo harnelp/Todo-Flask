@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual
+todo/
+ 
+# Ignorar archivos temporales y de caché
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones de sistema
+.DS_Store
+
+# otras
+instance/
+ScreenShots/
