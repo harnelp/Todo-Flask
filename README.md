@@ -22,7 +22,9 @@
 <p>Imagen del proyecto:</p>
 <img src="ScreenShots/index.png" alt="Vista previa del proyecto" width="600">
 
-
 <h2>Video del proyecto</h2>
 <p>Puedes ver una demostración en el siguiente video:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video_id" title="Video de demostración del proyecto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Mira el video del proyecto](https://img.youtube.com/vi/mFqmtn6-C6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=mFqmtn6-C6o)
+
+
